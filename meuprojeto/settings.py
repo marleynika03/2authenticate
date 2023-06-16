@@ -40,7 +40,7 @@ STATIC_URL = 'meuprojetodjango\autenticador\doisfatores\static'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-ipr&w49eqd%&e8)&^6r#pgfrkdnn&lp&a^k0o9v#nwu$230swq'
+SECRET_KEY = 'your-secret-key-here'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
